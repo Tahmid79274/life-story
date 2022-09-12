@@ -1,4 +1,9 @@
 ei neel monihar
 shundori tui joldi aay vaat baira de khudai poran jai
 valobeshe gelam shudhu, valobasha pelam naa, ashai ashai din je gelo
+<<<<<<< HEAD
 amay deko na khuje pabe na, hariye felecho khuje pabar thikana
+=======
+chander shathe raiter piriti hoile kadate chorai, matir shathe paanir piriti hoile kadate chorai, ooooooooooo tomar shathe amar pirit haire ei khobor shunia srishti hoilo shunner majhe shundor ekta duniya.
+>>>>>>> 6ffb790b969da9ef915a19993702dc1b39094248
+deshi munde
